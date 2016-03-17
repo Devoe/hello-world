@@ -1,3 +1,3 @@
 # hello-world
-My beginning GitHub project. 
+My initial Github project. 
 This is my journey into a new, exciting, lucrative and fruitful career.
